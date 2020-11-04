@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/air-conditioner/static/css/main.c1c14e7d.chunk.css",
+    "main.js": "/air-conditioner/static/js/main.c3e35b37.chunk.js",
+    "main.js.map": "/air-conditioner/static/js/main.c3e35b37.chunk.js.map",
+    "runtime-main.js": "/air-conditioner/static/js/runtime-main.530d1de4.js",
+    "runtime-main.js.map": "/air-conditioner/static/js/runtime-main.530d1de4.js.map",
+    "static/js/2.6879b89b.chunk.js": "/air-conditioner/static/js/2.6879b89b.chunk.js",
+    "static/js/2.6879b89b.chunk.js.map": "/air-conditioner/static/js/2.6879b89b.chunk.js.map",
+    "index.html": "/air-conditioner/index.html",
+    "static/css/main.c1c14e7d.chunk.css.map": "/air-conditioner/static/css/main.c1c14e7d.chunk.css.map",
+    "static/js/2.6879b89b.chunk.js.LICENSE.txt": "/air-conditioner/static/js/2.6879b89b.chunk.js.LICENSE.txt",
+    "static/media/logo.5fb28574.svg": "/air-conditioner/static/media/logo.5fb28574.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.530d1de4.js",
+    "static/js/2.6879b89b.chunk.js",
+    "static/css/main.c1c14e7d.chunk.css",
+    "static/js/main.c3e35b37.chunk.js"
+  ]
+}
